@@ -1,6 +1,6 @@
 # *Advancing into Analytics*: Foundations for Marketing Analytics
 
-![Image](images/cover-image.png)
+![Image](images/event-cover.png)
 
 Follow along with the demos by clicking below buttons:
 
